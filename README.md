@@ -138,7 +138,7 @@ SQL-Projects/
 │   └── README.md
 │
 ├── Parks-and-Recreation-Project/
-│   ├── Parks_and_Rec_Create_db.sql
+│   ├── parks_and_recreation.sql
 │   ├── parks_and_recreation_Taqi.sql
 │   └── README.md
 │
